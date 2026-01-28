@@ -1,5 +1,10 @@
 > ⚠️ All activities were performed in a controlled local lab environment for educational purposes.
 
+# Web Crawling Traffic Analysis with Wireshark
+
+This lab demonstrates how automated web crawling traffic can be identified and analyzed using Wireshark and correlated with server logs from a SOC perspective. The activity was performed in a local VM lab.
+
+
 # Web Crawling Traffic Analysis using Wireshark
 
 ## Objective
