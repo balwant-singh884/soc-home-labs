@@ -62,7 +62,7 @@ This activity represents reconnaissance behavior often observed during early sta
 
 ### Evidence
 
-![Crawler Traffic in Wireshark](wireshark-crawler-traffic.png)
+https://github.com/balwant-singh884/soc-home-labs/blob/main/wireshark-crawler-traffic.png.png
 
 ## Conclusion
 This lab demonstrates how Wireshark can be used to distinguish between normal user traffic and automated reconnaissance activity, and how network traffic analysis can be correlated with application logs for effective security monitoring.
