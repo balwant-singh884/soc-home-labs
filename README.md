@@ -1,3 +1,5 @@
+> ⚠️ All activities were performed in a controlled local lab environment for educational purposes.
+
 # Web Crawling Traffic Analysis using Wireshark
 
 ## Objective
@@ -58,7 +60,9 @@ A simple Apache-hosted website was accessed normally via a browser and then craw
 ## SOC Perspective
 This activity represents reconnaissance behavior often observed during early stages of an attack. While not malicious by itself, such behavior would be flagged by SOC analysts for further investigation.
 
+### Evidence
 
+![Crawler Traffic in Wireshark](wireshark-crawler-traffic.png)
 
 ## Conclusion
 This lab demonstrates how Wireshark can be used to distinguish between normal user traffic and automated reconnaissance activity, and how network traffic analysis can be correlated with application logs for effective security monitoring.
